@@ -213,7 +213,8 @@ Use the sample JSON inputs as provided in the assignment and see corresponding a
 
 ## Contact
 
-Sekhar Sunkara - sekharsunkara2002@gmail.com
+Email - sekharsunkara2002@gmail.com
+Portfolio - https://sekharsunkaraportfolio.netlify.app/
 
 ---
 
